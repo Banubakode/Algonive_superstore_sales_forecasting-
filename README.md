@@ -44,3 +44,6 @@ It provides insights into regional sales, category-wise performance, payment met
 ## 👩‍💻 Author
 **Ankita Banubakode**  
 [LinkedIn Profile](www.linkedin.com/in/ankita-banu) • [Email](mailto:banubakodeankita@gmail.com)
+
+#powerbi #dataanalysis #forecasting #dashboard #timeseries #retailanalytics
+
